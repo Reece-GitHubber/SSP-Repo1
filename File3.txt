@@ -1,0 +1,11 @@
+#A000Reece
+
+public int Max()
+{
+    int a = 10;
+    int b = 5;
+    int c = 15;
+    int max = Math.Max(Math.Max(a, b), c);
+    return max;
+}
+
