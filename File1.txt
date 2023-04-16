@@ -8,3 +8,12 @@ public int Addition()
     return result;
 }
 
+#W0240992 - Josh
+
+public int Subtraction()
+{
+    int a = 5;
+    int b = 2;
+    int result = a - b;
+    return result;
+}
