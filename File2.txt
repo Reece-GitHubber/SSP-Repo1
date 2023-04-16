@@ -8,3 +8,12 @@ public int Addition()
     return result;
 }
 
+#W0240992-Josh
+
+public int Mod()
+{
+    int a = 7;
+    int b = 3;
+    int result = a % b;
+    return result;
+}
