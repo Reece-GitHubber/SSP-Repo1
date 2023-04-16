@@ -9,3 +9,16 @@ public int Max()
     return max;
 }
 
+#W0240992-Josh
+
+public class Math {
+    public static double Avg(int[] nums) {
+        double sum = 0;
+        foreach (int num in nums) {
+            sum += num;
+        }
+        double avg = sum / nums.Length;
+        return avg;
+    }
+}
+
